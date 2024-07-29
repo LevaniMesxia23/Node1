@@ -4,7 +4,7 @@ This repo contains starter files and the finished project files for all the proj
 
 Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
-Plus, I made all the [course slides available for download](theory-lectures.pdf), to make it easier to follow along the theory videos.
+Plus, I made all the [course slides available for download](theory-lectures.pdf), to make it easier to follow along the theory videos...
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
